@@ -1,2 +1,7 @@
 # Dogs
-Project 9 from my Program Design class during the Spring 2017 semester.
+
+This program maintains records for canine patients at an animal hospital.
+Each dog’s record has a name, a breed, a patient number, and owner’s last name.
+It uses a dynamically allocated linked list to store the records.
+
+For a detailed description of this project, please refer to Project 9.pdf
