@@ -10,6 +10,7 @@ Version 2 (dogs2.c, dogs2.h, readline2.c, readline2.h, records2.c, makefile):
 - This version modifies the original program so that there are three source files and two header files.
 - Compile: "gcc -o records2 readline2.c dogs2.c records2.c"
 - For a detailed description of this project, please refer to Project 9.pdf
+
 (Note: Despite the description in the PDF, this version does NOT contain a makefile
 due to additional versions and the conflict with the "makefile" file name.)
 
