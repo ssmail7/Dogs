@@ -1,4 +1,4 @@
-//**********************************************************************
+//*********************************************************************
 // Written by Steven Smail for COP3514
 //
 // dogs.c (Project 9)
@@ -6,7 +6,7 @@
 // This program maintains records for canine patients at an animal
 // hospital - containing each dog’s name, breed, patient number, and
 // owner’s last name.
-//**********************************************************************
+//*********************************************************************
 
 #include <stdio.h>
 #include <string.h>
